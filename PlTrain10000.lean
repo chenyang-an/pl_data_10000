@@ -69,6 +69,7 @@ import PlTrain10000.depth_5_8_vars_68
 import PlTrain10000.depth_5_8_vars_69
 import PlTrain10000.depth_5_8_vars_70
 import PlTrain10000.depth_5_8_vars_71
+import PlTrain10000.depth_5_8_vars_72
 import PlTrain10000.depth_5_8_vars_73
 import PlTrain10000.depth_5_8_vars_74
 import PlTrain10000.depth_5_8_vars_75
